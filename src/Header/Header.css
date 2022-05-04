@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+header {
+  background: #2550e8;
+}
+
+.top-bar {
+  padding: 0px;
+  font-size: 12px;
+  border-bottom: 4px solid #5cff18;
+  min-height: 40px;
+}
+
+.main-header {
+  padding: 20px 0 25px;
+}
+
+.site-title {
+  color: #fff;
+}
